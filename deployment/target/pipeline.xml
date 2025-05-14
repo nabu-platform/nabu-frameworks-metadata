@@ -1,0 +1,7 @@
+<structure name="pipeline">
+    <structure name="input">
+        <field name="connectionId" type="java.lang.String"/>
+        <structure collectionName="metadataTypes" definition="nabu.frameworks.metadata.database.types.metadataType" maxOccurs="unbounded" minOccurs="0" name="metadataTypes"/>
+    </structure>
+    <structure name="output"/>
+</structure>

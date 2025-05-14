@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.data.model.DataModelManager" created="2025-04-22T09:14:44.053+02:00" lastModified="2025-05-14T09:44:28.604+02:00" leaf="true" version="31">
+    <environmentId>ares</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.frameworks.metadata.database.types.metadataType</references>
+    <references>nabu.frameworks.metadata.database.types.metadataInstance</references>
+</node>

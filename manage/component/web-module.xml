@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webModule>
+    <webFragments>nabu.frameworks.metadata.crud.metadataInstance</webFragments>
+    <webFragments>nabu.frameworks.metadata.crud.metadataType</webFragments>
+    <audience>MANAGER</audience>
+</webModule>

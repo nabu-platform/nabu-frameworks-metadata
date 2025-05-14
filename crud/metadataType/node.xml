@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.services.crud.CRUDArtifactManager" created="2025-05-14T09:44:51.215+02:00" lastModified="2025-05-14T15:53:47.432+02:00" leaf="false" version="5">
+    <environmentId>ares</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.frameworks.metadata.database.types.metadataType</references>
+    <references>nabu.services.crud.provider.basic.provider</references>
+</node>

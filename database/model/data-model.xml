@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataModel>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.frameworks.metadata.database.types.metadataType</type>
+        <x>121</x>
+        <y>59</y>
+    </entries>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.frameworks.metadata.database.types.metadataInstance</type>
+        <x>677</x>
+        <y>100</y>
+    </entries>
+</dataModel>

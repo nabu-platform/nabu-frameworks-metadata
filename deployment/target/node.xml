@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.services.vm.VMServiceManager" created="2025-05-14T09:49:39.805+02:00" lastModified="2025-05-14T09:51:09.212+02:00" leaf="true" version="4">
+    <environmentId>ares</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.services.jdbc.Services.merge</references>
+    <references>java.lang.String</references>
+    <references>nabu.frameworks.metadata.database.types.metadataType</references>
+</node>
