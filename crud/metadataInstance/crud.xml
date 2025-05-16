@@ -4,6 +4,8 @@
     <broadcastCreate>false</broadcastCreate>
     <broadcastUpdate>false</broadcastUpdate>
     <coreType>nabu.frameworks.metadata.database.types.metadataInstance</coreType>
+    <createBlacklistFields>modified</createBlacklistFields>
+    <createBlacklistFields>created</createBlacklistFields>
     <createPermission>metadata.manage</createPermission>
     <createRole>$user</createRole>
     <deletePermission>metadata.manage</deletePermission>
@@ -58,7 +60,10 @@
     <listRole>$user</listRole>
     <provider>nabu.services.crud.provider.basic.provider</provider>
     <restLimitToUser>true</restLimitToUser>
+    <updateBlacklistFields>modified</updateBlacklistFields>
+    <updateBlacklistFields>created</updateBlacklistFields>
     <updatePermission>metadata.manage</updatePermission>
+    <updateRegenerateFields>modified</updateRegenerateFields>
     <updateRole>$user</updateRole>
     <useAsAuthorizationServiceContext>false</useAsAuthorizationServiceContext>
     <useExplicitLanguage>false</useExplicitLanguage>
